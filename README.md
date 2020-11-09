@@ -5,7 +5,7 @@ Use Azure Cognitive Services with Powershell
 Change your API key in the ``setup.ps1`` file.
 ## WARNING
 Never expose your API key to anyone else. It is possible to abuse your key! The consequences are unexpected bills. There is no warrant that anyone except you has to pay for the fees.
-
+## Possible modifications
 To change the language that you want to translate from/to, edit the variables ``$fromLang`` and ``$toLang`` in ``setup.ps1``. They will be passed to the API endpoint.
 
 The text that you want to translate can be hard-coded, as in my example, or passed to the script as a script parameter.
