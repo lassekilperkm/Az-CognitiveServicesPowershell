@@ -1,7 +1,7 @@
 # Az-CognitiveServicesPowershell
 Use Azure Cognitive Services with Powershell
 
-# Configuration
+## Configuration
 Change your API key in the ``setup.ps1`` file.
 ## WARNING
 Never expose your API key to anyone else. It is possible to abuse your key! The consequences are unexpected bills. There is no warrant that anyone except you has to pay for the fees.
